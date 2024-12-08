@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gw0rf616Dls=",
+  "dgSpecHash": "4xQhM+Azhe8=",
   "success": true,
   "projectFilePath": "D:\\DotNet\\MyProjects\\MyConsole\\MyConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexa\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
